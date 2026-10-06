@@ -1,0 +1,8 @@
+[package]
+name = "prophet-gft"
+version = "0.1.0"
+edition = "2021"
+description = "Threshold algorithms for prophet gain-from-trade"
+license = "MIT"
+
+[dependencies]
